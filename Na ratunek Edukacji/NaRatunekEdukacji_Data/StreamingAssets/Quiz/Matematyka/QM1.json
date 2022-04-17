@@ -1,0 +1,19 @@
+{"doWyl":1,
+ "id":1,
+"pytania":[
+	{"pytanie": "Trasa kolejowa z Warszawy do Gdyni ma długość 360 km, a z Malborka do Warszawy o 113 kilometrów mniej. Jaka jest łączna długość tras z Malborka do Warszawy i z Gdyni do Warszawy?",
+	 "odpowiedzi":["607 Km", "247 Km", "113 Km", "560 Km"],
+	 "dobra":1,
+	 "lokalizacjazdj":"NULL"},
+	{"pytanie": "Opakowanie lekarstwa zawiera 60 tabletek. Na ile dni wystarczy tabletek, jeżeli Ula będzie zażywała dwa razy dziennie po dwie tabletki?",
+	 "odpowiedzi":["Na 30 dni", "Na 15 Dni", "Na 20 Dni", "Na 60 dni"],
+	 "dobra":2,
+	 "lokalizacjazdj":"NULL"},
+	{"pytanie": "Rodzina Trasowskich składa się z czterech osób. Kasia ma 5 lat, a jej starsza siostra Dominika jest trzy razy starsza. Kiedy urodziła się Dominika, mama miała 24 lata. Tato jest o 3 lata starszy od mamy. Ile lat mają razem wszyscy Leśniewscy?",
+	 "odpowiedzi":["64 lata", "85 lat", "90 lat", "101 lat"],
+	 "dobra":4,
+	 "lokalizacjazdj":"NULL"}
+],
+"idZad":-1,
+"ilePkt":1,
+"spelnianeZad":-1}
